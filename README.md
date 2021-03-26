@@ -1,8 +1,6 @@
-# Start Sua Carreira - Portfólio
+# Portfólio - Eduardo Maciel
 
-Aqui vamos desenvolver ao longo dos dias desse curso, um currículo/portfólio.
-
-Esse repositório será atualizado todos os dias, com as alterações feitas junto com vocês nas lives.
+Este é o meu portifólio/currículo desenvolvido durante um evento da Kenzie Academy Brasil.
 
 ## O projeto
 
