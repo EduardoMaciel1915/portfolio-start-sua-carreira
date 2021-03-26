@@ -6,15 +6,14 @@ Este é o meu portifólio/currículo desenvolvido durante um evento da Kenzie Ac
 
 ### Estrutura de pastas
 
-- kenzie-academy_startnasuacarreira.png
 - README.md
-- dia1/
+- Portifólio Pronto
     - index.html
     - assets/
         - img/
             - facebook-app-symbol.svg
             - github-big-logo.svg
-            - hudson.png
+            - Eduardo.jpeg
             - instagram.svg
             - linkedin.svg
             - youtube.svg
@@ -35,6 +34,6 @@ Este é o meu portifólio/currículo desenvolvido durante um evento da Kenzie Ac
 
 ### O layout
 
-[Desktop](./kenzie-academy_startnasuacarreira.png)
+[Desktop](./Desktop.png)
 
-[Mobile](./kenzie-academy_startnasuacarreira-mobile.png)
+[Mobile](./Mobile.png)
